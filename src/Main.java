@@ -4,7 +4,7 @@ public class Main {
         int ticket = 15110; // стоимость билета
         int oneMile = 20; // стоимость одной мили
 
-        int i = (ticket / oneMile);
-        System.out.println (i);
+        int mile = (ticket / oneMile);
+        System.out.println(mile);
     }
 }
